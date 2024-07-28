@@ -43,6 +43,7 @@ Este repositório foi criado como um recurso pessoal para estudo e consulta de t
 ## Última Atualização
 
 📆 **28/07/2024**
+⌛ **obs:** Este repositório ainda está em desenvolvimento.
 
 ## Licença
 
