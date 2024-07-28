@@ -32,7 +32,7 @@ Este repositório foi criado como um recurso pessoal para estudo e consulta, com
 - 🔐 **Autenticação e JWT:** Implementando autenticação em NodeJS utilizando JWT (JSON Web Tokens). Esta seção cobre a criação e validação de tokens JWT, além da proteção de rotas com middleware.
 - 🎲 **Trabalhando com Dados e Eventos:** Aprendendo a manipular dados e eventos em NodeJS, incluindo o envio de emails, gerenciamento de eventos e manipulação de caminhos para trabalhar com arquivos e diretórios.
 
-Este repositório serve como um complemento ao seu aprendizado e é uma base para consulta e prática. Sinta-se à vontade para explorar, adaptar e contribuir com melhorias. Se você está aprendendo ou aperfeiçoando suas habilidades nessas tecnologias, este material pode ser um recurso valioso.
+Este repositório foi criado como um recurso pessoal para estudo e consulta de terceiros sobre Javascript, Typescript e NodeJs. Sinta-se à vontade para explorar, aprender e contribuir!
 
 ## By
 
